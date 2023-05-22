@@ -32,7 +32,7 @@ BSBookingQuery is a hotel booking system backend application that allows users t
    ![](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 
 ```bash
-git clone https://github.com/your-username/BSBookingQuery.git
+git clone https://github.com/S-a-b-b-i-R/BSBookingQuery.git
 ```
 
 2. Use the **BSBookingQuery.sql** or the **BSBookingQuery.bak** to create the database in your local server
